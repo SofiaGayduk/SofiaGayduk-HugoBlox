@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs | </title>
+    <link>https://example.com/blog/</link>
+      <atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogs</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Blogs</title>
+      <link>https://example.com/blog/</link>
+    </image>
+    
+    <item>
+      <title>Моя первая неделя работы над сайтом</title>
+      <link>https://example.com/blog/my-first-post/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;что-сделано-за-неделю&#34;&gt;Что сделано за неделю&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Создан репозиторий на GitHub&lt;/li&gt;
+&lt;li&gt;Установлен Hugo и pnpm&lt;/li&gt;
+&lt;li&gt;Развёрнут шаблон Academic CV&lt;/li&gt;
+&lt;li&gt;Настроен локальный сервер&lt;/li&gt;
+&lt;li&gt;Добавлены фото, био, интересы, образование&lt;/li&gt;
+&lt;li&gt;Сайт опубликован на GitHub Pages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;что-узнала&#34;&gt;Что узнала&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Git требует внимания, но все конфликты решаемы&lt;/li&gt;
+&lt;li&gt;Hugo генерирует статический сайт из Markdown&lt;/li&gt;
+&lt;li&gt;GitHub Pages даёт бесплатный хостинг&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавить навыки и опыт&lt;/li&gt;
+&lt;li&gt;Настроить ссылки на научные ресурсы&lt;/li&gt;
+&lt;li&gt;Написать пост о CI/CD&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Основы Git и CI/CD: мой опыт настройки сайта</title>
+      <link>https://example.com/blog/git-and-cicd/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/git-and-cicd/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-с-git&#34;&gt;Управление версиями с Git&lt;/h2&gt;
+&lt;p&gt;Git — это система контроля версий, которая позволяет отслеживать изменения в коде, возвращаться к предыдущим версиям и работать в команде.&lt;/p&gt;
+&lt;h3 id=&#34;основные-команды-которые-я-использовала&#34;&gt;Основные команды, которые я использовала:&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init                &lt;span class=&#34;c1&#34;&gt;# инициализация репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .               &lt;span class=&#34;c1&#34;&gt;# добавление файлов в отслеживание&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;текст&amp;#34;&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# сохранение изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin main    &lt;span class=&#34;c1&#34;&gt;# отправка на удалённый репозиторий&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull                &lt;span class=&#34;c1&#34;&gt;# получение изменений из удалённого репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
