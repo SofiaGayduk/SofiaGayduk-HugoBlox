@@ -198,6 +198,28 @@
     </item>
     
     <item>
+      <title>Языки разметки: Markdown и LaTeX</title>
+      <link>https://example.com/blog/markdown-latex/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/markdown-latex/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown — это легковесный язык разметки для форматирования текста.&lt;/p&gt;
+&lt;h3 id=&#34;преимущества&#34;&gt;Преимущества:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Простой и читаемый синтаксис&lt;/li&gt;
+&lt;li&gt;Конвертируется в HTML, PDF, DOCX&lt;/li&gt;
+&lt;li&gt;Используется в GitHub, Hugo, Jupyter Notebook&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;пример-форматирования&#34;&gt;Пример форматирования:&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Жирный текст**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ge&#34;&gt;*Курсив*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Список
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;Ссылка&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Основы Git и CI/CD: мой опыт настройки сайта</title>
       <link>https://example.com/blog/git-and-cicd/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
