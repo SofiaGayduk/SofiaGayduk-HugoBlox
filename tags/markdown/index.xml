@@ -13,6 +13,76 @@
     </image>
     
     <item>
+      <title>Оформление отчёта в QMD (Quarto Markdown)</title>
+      <link>https://example.com/blog/qmd-report/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/qmd-report/</guid>
+      <description>&lt;h2 id=&#34;что-такое-qmd&#34;&gt;Что такое QMD?&lt;/h2&gt;
+&lt;p&gt;QMD (Quarto Markdown) — это расширение Markdown от проекта Quarto. Позволяет создавать:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Отчёты с кодом на разных языках&lt;/li&gt;
+&lt;li&gt;Презентации (Reveal.js, PowerPoint, PDF)&lt;/li&gt;
+&lt;li&gt;Сайты и книги&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;почему-qmd-лучше-обычного-markdown-для-отчётов&#34;&gt;Почему QMD лучше обычного Markdown для отчётов?&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Возможность&lt;/th&gt;
+          &lt;th&gt;Обычный Markdown&lt;/th&gt;
+          &lt;th&gt;QMD&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Выполнение кода&lt;/td&gt;
+          &lt;td&gt;нет&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Вставка графиков&lt;/td&gt;
+          &lt;td&gt;нет&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Переменные и параметры&lt;/td&gt;
+          &lt;td&gt;нет&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Формулы LaTeX&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Экспорт в PDF/Word&lt;/td&gt;
+          &lt;td&gt;нет (через Pandoc)&lt;/td&gt;
+          &lt;td&gt;да (встроено)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Поддержка таблиц&lt;/td&gt;
+          &lt;td&gt;ограничена&lt;/td&gt;
+          &lt;td&gt;да&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;пример-отчёта-на-qmd&#34;&gt;Пример отчёта на QMD&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: &amp;#34;Мой отчёт&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;author: &amp;#34;Софья Гайдук&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;format: pdf
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Загрузка данных
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;```{python}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;import pandas as pd
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;df = pd.DataFrame({&amp;#39;x&amp;#39;: [1,2,3], &amp;#39;y&amp;#39;: [4,5,6]})
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;print(df)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Языки разметки: Markdown и LaTeX</title>
       <link>https://example.com/blog/markdown-latex/</link>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>

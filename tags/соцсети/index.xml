@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Соцсети | </title>
+    <link>https://example.com/tags/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8/</link>
+      <atom:link href="https://example.com/tags/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>Соцсети</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Соцсети</title>
+      <link>https://example.com/tags/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Навыки, достижения и ссылки</title>
+      <link>https://example.com/blog/week-2/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/week-2/</guid>
+      <description>&lt;h2 id=&#34;что-сделано-за-неделю&#34;&gt;Что сделано за неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавлены навыки (C++, Python, Git, Linux)&lt;/li&gt;
+&lt;li&gt;Заполнен опыт (учебные проекты / лабораторные работы)&lt;/li&gt;
+&lt;li&gt;Добавлены достижения (продолжила изучать Linux)&lt;/li&gt;
+&lt;li&gt;Начата настройка ссылок на научные ресурсы&lt;/li&gt;
+&lt;li&gt;Сделаны лабораторные работы и индивидуальный проект&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы&#34;&gt;Планы&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Продолжать изучать интересное и учиться новому&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
