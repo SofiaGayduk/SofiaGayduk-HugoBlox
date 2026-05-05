@@ -5,12 +5,85 @@
     <link>https://example.com/tags/git/</link>
       <atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <description>Git</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Git</title>
       <link>https://example.com/tags/git/</link>
     </image>
+    
+    <item>
+      <title>Персональный проект: Операционные системы</title>
+      <link>https://example.com/project/personal-project/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/personal-project/</guid>
+      <description>&lt;h2 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h2&gt;
+&lt;p&gt;В рамках курса по операционным системам мы выполняем персональный проект, который включает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Создание сайта&lt;/li&gt;
+&lt;li&gt;Создание отчётов в формате Quarto (QMD)&lt;/li&gt;
+&lt;li&gt;Подготовку презентаций с кодом и формулами&lt;/li&gt;
+&lt;li&gt;Приобретение опыта использования Git&lt;/li&gt;
+&lt;li&gt;Публикацию результатов на GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этапы-проекта&#34;&gt;Этапы проекта&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Этап&lt;/th&gt;
+          &lt;th&gt;Задача&lt;/th&gt;
+          &lt;th&gt;Статус&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 01&lt;/td&gt;
+          &lt;td&gt;Размещение на Github pages заготовки персонального сайта&lt;/td&gt;
+          &lt;td&gt;Завершён&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 02&lt;/td&gt;
+          &lt;td&gt;Добавление данных о себе&lt;/td&gt;
+          &lt;td&gt;Завершён&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 03&lt;/td&gt;
+          &lt;td&gt;Добавление данных о достижениях&lt;/td&gt;
+          &lt;td&gt;Завершён&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 04&lt;/td&gt;
+          &lt;td&gt;Добавление ссылок на научные ресурсы&lt;/td&gt;
+          &lt;td&gt;Завершён&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 05&lt;/td&gt;
+          &lt;td&gt;Добавление к сайту всех остальных элементов&lt;/td&gt;
+          &lt;td&gt;В процессе&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Stage 06&lt;/td&gt;
+          &lt;td&gt;Размещение двуязычного сайта на Github&lt;/td&gt;
+          &lt;td&gt;В процессе&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;используемые-технологии&#34;&gt;Используемые технологии&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quarto — для содания отчётов&lt;/li&gt;
+&lt;li&gt;Hugo + HugoBlox — для сайта&lt;/li&gt;
+&lt;li&gt;Git + GitHub — для сайта&lt;/li&gt;
+&lt;li&gt;Markdown + LaTeX — для форматирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ссылки&#34;&gt;Ссылки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя первая неделя работы над сайтом</title>

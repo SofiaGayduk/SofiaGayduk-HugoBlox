@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Проекты | </title>
+    <link>https://example.com/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</link>
+      <atom:link href="https://example.com/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>Проекты</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Проекты</title>
+      <link>https://example.com/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</link>
+    </image>
+    
+    <item>
+      <title>Третья неделя: персональные проекты и научное программирование</title>
+      <link>https://example.com/blog/week-3/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/week-3/</guid>
+      <description>&lt;h2 id=&#34;что-сделано-за-неделю&#34;&gt;Что сделано за неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Завершён этап 4 персонального проекта (Quarto отчёты и презентации)&lt;/li&gt;
+&lt;li&gt;Добавлена запись о проекте на сайт&lt;/li&gt;
+&lt;li&gt;Продолжаем изучать языки программирования&lt;/li&gt;
+&lt;li&gt;Написан пост о языках программирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;с-какими-трудностями-столкнулась&#34;&gt;С какими трудностями столкнулась&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quarto требует правильной структуры проекта&lt;/li&gt;
+&lt;li&gt;Нужно следить за версиями зависимостей&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Опубликовать итоговый сайт с полными данными&lt;/li&gt;
+&lt;li&gt;Завершить Индивидуальный проект полностью&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

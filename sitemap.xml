@@ -14,27 +14,45 @@
   <url>
     <loc>https://example.com/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/blog/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/c&#43;&#43;/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/git/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/latex/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/markdown/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/python/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/quarto/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/personal-project/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/blog/scientific-programming/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/blog/week-3/</loc><lastmod>2026-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tags/bibtex/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/blog/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/git/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/github-pages/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/hugo/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/latex/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/markdown/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tags/qmd/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/quarto/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/tags/reveal.js/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</loc><lastmod>2026-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
